@@ -4,7 +4,7 @@
 
 A 5-table SQLite database has been provided. The database contains a table of 100 artworks, a table of creators, a table of departments, and 2 linking tables containing the relationships between artworks, departments, and creators.
 
-Using python, write a script that extracts the data from the tables and writes them to a single array of JSON objects. Each object should contain all the information relevant to an artwork. Write the resulting data to a file.
+Using python, write a script that extracts the data from the tables and writes them into a JSON representation. Each object should contain all the information relevant to an artwork. Write the resulting data to a file.
 
 ## Part 2: Front-End Data Presentation
 
@@ -12,4 +12,8 @@ Using the web or mobile framework of your choice, create a simple app that inges
 
 ## Completion and Submission
 
-Completed work should include all code to arrive at the solution, plus all code, assets, and resources required to run the final result of part 2. All completed work should be pushed to a public repo on GitHub.
+Completed work should include all code to arrive at the solution, plus all code, assets, and resources required to run the final result of part 2. 
+
+PLEASE INCLUDE a detailed README containing instructions for running the project locally.
+
+All completed work should be pushed to a public repo on GitHub.
